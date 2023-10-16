@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.judul {
+    text-align: center;
+}
+
+.boxmodel {
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    margin: auto;
+    padding-top:50px;
+}
+
+.kotak {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-left: 100px;
+    
+}
+
+.kotak2 {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.boxmodel:hover {
+margin-left: 100px;
+margin-top: 100px;
+}
